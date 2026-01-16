@@ -46,6 +46,7 @@ It demonstrates layout, styling, and component design similar to the real Creato
 
 ## 📂 Project structure
 
+```text
 creators.spotify/
 ├─ app/                 # Main app code
 ├─ public/              # Static assets
@@ -53,8 +54,7 @@ creators.spotify/
 ├─ package.json         # Project config
 ├─ next.config.js       # Next.js settings
 └─ tailwind.config.js   # Tailwind config
-
-
+```
 ---
 
 ## 🧩 Getting Started
